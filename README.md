@@ -1,2 +1,2 @@
 # Python
-Contiene esercitazioni in codice Python
+Contiene i file del progetto 8
